@@ -1,5 +1,5 @@
 # 1024 Javascript Oyunu
-Klavye yön tuşları ile oynanabilen `html`, `pure CSS` and `vanilla JS` ile yapılmış web uygulaması.
+Klavye yön tuşları ile oynanabilen `html`, `pure CSS` ve `vanilla JS` ile yapılmış web uygulaması.
  
 ## Canlı Demo
 
